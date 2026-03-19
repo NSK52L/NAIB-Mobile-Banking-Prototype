@@ -30,4 +30,3 @@ All data shown in the screenshots and the prototype (names, emails, account numb
 
 ### App Preview
 ![Client main page](Screenshots/Client main page.png)
-![Admin main page](Screenshots/Admin main page.png)
