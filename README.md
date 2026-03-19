@@ -29,4 +29,6 @@ This solution was built to demonstrate a secure and user-friendly mobile banking
 All data shown in the screenshots and the prototype (names, emails, account numbers) consists of **mock data** used for demonstration purposes. No sensitive or real banking information from NAIB was used in this repository.
 
 ### App Preview
-![Client main page](Screenshots/Client main page.png)
+![Client main page](Screenshots/Client%20main%20page.png)
+![Admin main page](Screenshots/Admin%20main%20page.png)
+
